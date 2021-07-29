@@ -90,7 +90,7 @@
 3. 마지막에 **특수문자 삽입 X**
 4. **개조식** 구문 ( 간결, 요점적인 서술 )
 
-> Feat: "추가 Infinty Scroll 기능"
+> Feat: 추가 Infinty Scroll 기능
 
 ### 본문
 
@@ -100,7 +100,7 @@
 2. **최대한 상세히 작성**
 3. 어떻게보단 **무엇, 왜**에 중점적으로
 
-> Feat: "추가 Infinity Scroll 기능"
+> Feat: 추가 Infinity Scroll 기능
 >
 > - react-intersection-observer 패키지 사용
 > - intersection 관측 시 다음 page API 호출
@@ -115,7 +115,7 @@
    - **Ref**: 참고할 이슈
    - **Related to**: 해당 커밋과 관련된 이슈 번호 ( 아직 미해결 )
 
-> Feat: "추가 Infinity Scroll 기능"
+> Feat: 추가 Infinity Scroll 기능
 >
 > - react-intersection-observer 패키지 사용
 > - intersection 관측 시 다음 page API 호출
